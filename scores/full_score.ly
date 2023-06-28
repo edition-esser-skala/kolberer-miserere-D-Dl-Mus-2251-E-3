@@ -12,7 +12,7 @@
   markup-system-spacing.minimum-distance = #10
   system-system-spacing.basic-distance = #17
   system-system-spacing.minimum-distance = #17
-  % systems-per-page = #2
+  systems-per-page = #2
 }
 
 \layout {
@@ -89,7 +89,7 @@
         \new FiguredBass { \MiserereBassFigures }
       >>
       \layout { }
-      \midi { \tempo 4 = 90 }
+      \midi { \tempo 4 = 100 }
     }
   }
 }
