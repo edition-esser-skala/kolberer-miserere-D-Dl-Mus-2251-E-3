@@ -69,7 +69,7 @@ MiserereTenore = {
     d4 cis d8.^\critnote d16 e8 f
     e d c b a8. g16 f8 b
     b a d d r h e e %75
-    r c f f r4 d
+    r cis? f f r4 d
     e8 h cis4 d8 r r4
     R1*10 \noBreak %87
     R1\fermata \bar "||"
@@ -114,14 +114,14 @@ MiserereTenore = {
     d r r2
     R1*3 %137
     \mvDl d8.\fE^\tutti d16 e4 r2
-    r4 \mvTr d8\fE^\tuttiE d es c16 c a8([ d)]
+    r4 d8 d es c16 c a8([ d)]
     d4 r r2 %140
     R1*4
     r4 \mvTr d8\pE^\solo b b g g16([ f)] g8 %145
     es' c c a a16([ g)] a8 g16[ f g a]
     b[ c d es] f[ c d es] d[ b f' b,] a8. a16
     b4 d8 c b g g g
-    g[( f16 e] f8[ g] a) b e,4
+    g[( f!16 e] f8[ g] a) b e,4
     d r8 f b b16 b b8 as %150
     g g r g c c16 c c8 b
     a! a r c f([ a,)] b es?

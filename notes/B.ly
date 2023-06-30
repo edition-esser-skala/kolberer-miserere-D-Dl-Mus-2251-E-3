@@ -37,7 +37,7 @@ MiserereBasso = {
     g d a' a
     d, d es4. d8
     c4 b a4. a8
-    g4 g'8 g d es f4
+    g4 g'8 g d es f!4
     g8([ a)] b4 b( a) %40
     b r r2
     R1
@@ -130,7 +130,7 @@ MiserereBasso = {
     g, r r2
     R1*3 %137
     \mvDl b'8.\fE^\tutti b16 a4 r2
-    r4 \mvTr g8\fE^\tuttiE g c, c16 c d4
+    r4 g8 g c, c16 c d4
     g, \mvTr g'\pE^\solo r d' %140
     r8 g, c d16 d g,8 b d c16 b
     f!2 b,8 b d d16 d

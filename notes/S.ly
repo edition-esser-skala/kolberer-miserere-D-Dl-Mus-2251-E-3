@@ -50,7 +50,7 @@ MiserereSoprano = {
     cis c h b %50
     as g g( fis)
     g b! a a
-    g g a b!
+    g g f!^\critnote b!
     c( b a2)
     b4 r8 \mvTr d4\pE^\soloE d16 c b8 c %55
     g4 r r2
@@ -74,7 +74,7 @@ MiserereSoprano = {
     c) c1 b d2
     c( a) g f( b2.) a4
     g2( c) b a( d) c
-    b2. es4 d2 c f( e) %95
+    b2. es4 d2 c f( es?) %95
     d d g g1 f2
     e1.\trill d1 \mvTr d2\pE^\solo
     c!2. b4 a2 g4( f) e1
@@ -110,9 +110,9 @@ MiserereSoprano = {
     g r8 \mvTr d'\pE^\soloE g, b d([ c16 d]
     es4) d c4. b8 %135
     b4( a) g8 d' c8. c16
-    d4 r r8 d16([ e] f8) e
-    \mvTr d8.\fE^\tutti d16 cis4 r8 \mvTr d4\pE^\soloE c8
-    c4 b8 b \mvTr b4(\fE^\tuttiE a)
+    d4 r r8 d16([ e!] f8) e
+    \mvTr d8.\fE^\tutti d16 cis4 r8 d4 c8
+    c4 b8 b b4( a)
     g r r2 %140
     R1*13 \noBreak
     R1\fermata \bar "||"
@@ -122,7 +122,7 @@ MiserereSoprano = {
     \time 6/2 a a d d( c1)
     d1. r2 r c
     b1 a2 g4 g g1
-    a a2 b2. b4 h2
+    fis^\critnote a2 b2. b4 h2
     c( d) es d( c) h \noBreak %160
     \time 9/2 \tempoConvertentur c2. c4 c2 c c( h) c1.\fermata \bar "||"
     \time 4/4 \tempoLibera \newSpacingSection
@@ -131,8 +131,8 @@ MiserereSoprano = {
     c2. h8 h
     c4 c8 c d4 d8 d
     es4 e f fis8 fis %165
-    g4 g,8([ a)] h?2~
-    h4 h8 h h2(
+    g4 g,8([ a)] b!2~
+    b4 h8 h h2(
     c4) d es4.( f8)
     d4 g, g f
     es c8 c' es4 e %170

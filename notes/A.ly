@@ -33,7 +33,7 @@ MiserereAlto = {
     e,!8 fis g2( fis4) %30
     b8[( a]) g f16([ es]) d8 e f4
     g a g2
-    a4 f8 f g g g4
+    a4 f!8 f g g g4
     a g g( fis)
     g g8 g a e a4 %35
     g f8([ g]) a4. g8
@@ -73,11 +73,11 @@ MiserereAlto = {
       \set Staff.timeSignatureFraction = 3/2
       \mvTr g1\fE^\tuttiE g2 e!1 e2 \noBreak
     d( es) f g1 a2 %90
-    es1 f2 c1( d2)
+    b1^\critnote f2 c1( d2)
     f f1 f d2
     es1 es2 f1 f2
     es1 es2 c1 f2
-    d2. d4 g2 e1 a2 %95
+    d2. d4 g2 es?1 a2 %95
     f f b a1 a2
     a1. fis1 r2
     R\breve.
@@ -122,8 +122,8 @@ MiserereAlto = {
     c,4 g'8 fis16([ g] a4) g %135
     es8 c d4 g,8 g a8. a16
     d8 d16([ e] f8) e d8. d16 a4
-    \mvTr gis'8.\fE^\tutti gis16 a4 \mvTr d,\pE^\soloE e
-    fis g8 g \mvTr g4(\fE^\tuttiE fis)
+    \mvTr gis'8.\fE^\tutti gis16 a4 d, e
+    fis g8 g g4( fis)
     g r r2 %140
     R1*13 \noBreak %153
     R1\fermata \bar "||"
@@ -142,7 +142,7 @@ MiserereAlto = {
     g4. g16 g g4 g8 g
     es4 es8 es f4^\critnote g8 g
     g2 as4 as %165
-    d, h8([ c)] d2~
+    d, b!8([ c)] d2~
     d4 d8 d d2(
     es4) h c2
     d4 d g g
